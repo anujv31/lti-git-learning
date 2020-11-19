@@ -1,1 +1,3 @@
 We are learning Git now.
+
+Adding new content now.
